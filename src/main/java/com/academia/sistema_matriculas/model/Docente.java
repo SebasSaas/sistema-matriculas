@@ -1,5 +1,4 @@
 package com.academia.sistema_matriculas.model;
-
 import java.util.Date;
 import org.springframework.format.annotation.DateTimeFormat;
 
